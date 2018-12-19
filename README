@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Fbuildroot.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Fbuildroot?ref=badge_shield)
+
 Buildroot is a simple, efficient and easy-to-use tool to generate embedded
 Linux systems through cross-compilation.
 
@@ -24,3 +26,7 @@ You can also find us on #buildroot on Freenode IRC.
 
 If you would like to contribute patches, please read
 https://buildroot.org/manual.html#submitting-patches
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Fbuildroot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Fbuildroot?ref=badge_large)
